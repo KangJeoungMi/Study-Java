@@ -11,11 +11,9 @@
 2. `command`+`shift`+`p` **Java: Create Java Project** 선택
 3. `No build tools` 선택 
 4. 프로젝트를 생성 할 디렉토리 선택 -> 프로젝트 이름 입력
-
-    ![img01_png](/images/markdown/Day01/img01.png)
+![img01_png](/images/markdown/Day01/img01.png)
 5. 패키지 생성 -> src 파일 내 패키지 생성
-
-    ![img02_png](/images/markdown/Day01/img02.png)
+![img02_png](/images/markdown/Day01/img02.png)
 
 ---
 
