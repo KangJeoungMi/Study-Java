@@ -68,7 +68,9 @@ class Calculator {
         System.out.println("Instance method result: " + instanceResult);
     }
 }
-
+// 실행결과
+// Static method result: 30
+// Instance method result: 35
 ```
 
 2. 활용
